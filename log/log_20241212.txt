@@ -1,0 +1,44 @@
+【INFO】2024/12/12 16:02:24 util.go:25: exePath: D:\0go_work\Go_WorkSpace\pystand_go\main.exe
+【INFO】2024/12/12 16:02:24 util.go:26: homeDir: D:\0go_work\Go_WorkSpace\pystand_go
+【INFO】2024/12/12 16:02:24 util.go:27: runtimePath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime
+【INFO】2024/12/12 16:02:24 util.go:28: sitePackagesPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\site-packages
+【INFO】2024/12/12 16:02:24 util.go:29: scriptPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\main.py
+【INFO】2024/12/12 16:02:24 util.go:30: pythonDLL: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime\python3.dll
+【INFO】2024/12/12 16:02:24 main.go:39: 脚本运行失败: exit status 1
+【INFO】2024/12/12 16:52:39 util.go:26: exePath: D:\0go_work\Go_WorkSpace\pystand_go\main.exe
+【INFO】2024/12/12 16:52:39 util.go:27: homeDir: D:\0go_work\Go_WorkSpace\pystand_go
+【INFO】2024/12/12 16:52:39 util.go:28: pythonDir: D:\0go_work\Go_WorkSpace\pystand_go\AppData
+【INFO】2024/12/12 16:52:39 util.go:29: runtimePath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime
+【INFO】2024/12/12 16:52:39 util.go:30: sitePackagesPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\site-packages
+【INFO】2024/12/12 16:52:39 util.go:31: scriptPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\main.py
+【INFO】2024/12/12 16:52:39 util.go:32: pythonDLL: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime\python3.dll
+【INFO】2024/12/12 16:52:39 main.go:39: 脚本运行失败: exit status 1
+【INFO】2024/12/12 16:53:05 util.go:26: exePath: D:\0go_work\Go_WorkSpace\pystand_go\main.exe
+【INFO】2024/12/12 16:53:05 util.go:27: homeDir: D:\0go_work\Go_WorkSpace\pystand_go
+【INFO】2024/12/12 16:53:05 util.go:28: pythonDir: D:\0go_work\Go_WorkSpace\pystand_go\AppData
+【INFO】2024/12/12 16:53:05 util.go:29: runtimePath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime
+【INFO】2024/12/12 16:53:05 util.go:30: sitePackagesPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\site-packages
+【INFO】2024/12/12 16:53:05 util.go:31: scriptPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\main.py
+【INFO】2024/12/12 16:53:05 util.go:32: pythonDLL: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime\python3.dll
+【INFO】2024/12/12 16:53:05 main.go:39: 脚本运行失败: exit status 1
+【INFO】2024/12/12 17:06:29 util.go:26: exePath: D:\0go_work\Go_WorkSpace\pystand_go\main.exe
+【INFO】2024/12/12 17:06:29 util.go:27: homeDir: D:\0go_work\Go_WorkSpace\pystand_go
+【INFO】2024/12/12 17:06:29 util.go:28: pythonDir: D:\0go_work\Go_WorkSpace\pystand_go\AppData
+【INFO】2024/12/12 17:06:29 util.go:29: runtimePath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime
+【INFO】2024/12/12 17:06:29 util.go:30: sitePackagesPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\site-packages
+【INFO】2024/12/12 17:06:29 util.go:31: scriptPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\main.py
+【INFO】2024/12/12 17:06:29 util.go:32: pythonDLL: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime\python3.dll
+【INFO】2024/12/12 17:08:45 util.go:26: exePath: D:\0go_work\Go_WorkSpace\pystand_go\main.exe
+【INFO】2024/12/12 17:08:45 util.go:27: homeDir: D:\0go_work\Go_WorkSpace\pystand_go
+【INFO】2024/12/12 17:08:45 util.go:28: pythonDir: D:\0go_work\Go_WorkSpace\pystand_go\AppData
+【INFO】2024/12/12 17:08:45 util.go:29: runtimePath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime
+【INFO】2024/12/12 17:08:45 util.go:30: sitePackagesPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\site-packages
+【INFO】2024/12/12 17:08:45 util.go:31: scriptPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\main.py
+【INFO】2024/12/12 17:08:45 util.go:32: pythonDLL: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime\python3.dll
+【INFO】2024/12/12 17:10:13 util.go:26: exePath: D:\0go_work\Go_WorkSpace\pystand_go\main.exe
+【INFO】2024/12/12 17:10:13 util.go:27: homeDir: D:\0go_work\Go_WorkSpace\pystand_go
+【INFO】2024/12/12 17:10:13 util.go:28: pythonDir: D:\0go_work\Go_WorkSpace\pystand_go\AppData
+【INFO】2024/12/12 17:10:13 util.go:29: runtimePath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime
+【INFO】2024/12/12 17:10:13 util.go:30: sitePackagesPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\site-packages
+【INFO】2024/12/12 17:10:13 util.go:31: scriptPath: D:\0go_work\Go_WorkSpace\pystand_go\AppData\main.py
+【INFO】2024/12/12 17:10:13 util.go:32: pythonDLL: D:\0go_work\Go_WorkSpace\pystand_go\AppData\runtime\python3.dll

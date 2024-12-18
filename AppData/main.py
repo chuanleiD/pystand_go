@@ -19,6 +19,20 @@ def set_env():
 if __name__ == "__main__":
     set_env()
     
+    import os
+    
+    # 获取当前脚本的绝对路径
+    current_file_path = os.path.abspath(__file__)
+
+    # 获取当前脚本所在的目录
+    current_dir = os.path.dirname(current_file_path)
+
+    # 将当前工作目录切换到脚本所在目录
+    os.chdir(current_dir)
+
+    # 验证当前工作目录
+    print(f"当前工作目录: {os.getcwd()}")
+
     from run import *
 
     run()

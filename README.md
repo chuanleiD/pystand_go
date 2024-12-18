@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
    下载：[Python Releases for Windows | Python.org](https://www.python.org/downloads/windows/)
 
-2. 找到 待打包python项目 的 **venv虚拟环境** 位置，拷贝其中的 `site-packages` 到 `AppData` 下。
+2. 找到 待打包python项目 的 **venv虚拟环境** 位置，拷贝 `venv\Lib\site-packages` 到 `AppData` 下。
 
 3. 将你的 待打包python项目 的入口文件命名为 `run.py`，入口函数命名为 `run`，拷贝到 `AppData` 下。
 
